@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omprakash Jangid 
-- 👀 I’m interested in Artificial intelligence and machine learning tasks.
+- 👀 I’m interested in Artificial intelligence and machine learning.
 - 🌱 I’m currently learning LLMs
 - 📫 Feel free to reach me omprakash_j@mfs.iitr.ac.in
 
