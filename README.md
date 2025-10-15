@@ -27,7 +27,7 @@ A **Django-based AI gift recommender** that:
 - Targets Indian customers with direct **Amazon India links**.  
 - Hosted on **Railway.app** for free and fast access.  
 
-### 💬 [LangGraph Chatbot](https://github.com/Omprakash-Jangid/)
+### 💬 [LangGraph Chatbot](https://github.com/Omprakash-Jangid/LangGraph-based-Chatbot)
 A **Streamlit chatbot** powered by **Google Gemini LLM** with:
 - **LangGraph** for conversation state management.  
 - **SQLite** persistence for multi-thread chat memory.  
