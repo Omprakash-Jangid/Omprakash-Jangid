@@ -16,7 +16,7 @@
 ## 🚀 Featured Projects
 
 ### 🗓 [OBuGa](https://github.com/Omprakash-Jangid/OBuGa)
-A **Flask-based attendance tracking system** using **SQLite**, featuring:
+A **Django-based attendance tracking system** using **SQLite**, featuring:
 - PDF attendance reports with employee details and daily summaries.  
 - Calendar-based views for presence tracking.  
 - Clean and simple user interface for company-wide attendance management.  
