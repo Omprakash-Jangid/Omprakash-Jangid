@@ -21,17 +21,25 @@ A **Django-based attendance tracking system** using **SQLite**, featuring:
 - Calendar-based views for presence tracking.  
 - Clean and simple user interface for company-wide attendance management.  
 
+### 💬 [LangGraph Chatbot](https://github.com/Omprakash-Jangid/LangGraph-based-Chatbot)
+A **Streamlit chatbot** powered by **Google Gemini LLM** with:
+- **LangGraph** for conversation state management.  
+- **SQLite** persistence for multi-thread chat memory.  
+- Modern UI with message bubbles and thread switching.  
+
+### 🐦 [X Post Generator](https://github.com/Omprakash-Jangid/x_post_generator)
+An **AI-powered tweet/X post generator** using **FastAPI**, **LangGraph**, and **Google Gemini LLM**:  
+- Generates funny, viral-ready tweets based on a given topic.  
+- Evaluates and optimizes tweets automatically using structured AI feedback.  
+- Interactive **web UI** to input topics and display results instantly.  
+- Supports multi-iteration tweet improvement for the best quality posts.
+
 ### 🎁 Gift Finder Genie
 A **Django-based AI gift recommender** that:
 - Uses **Hugging Face LLMs** to suggest gifts based on recipient details and budget.  
 - Targets Indian customers with direct **Amazon India links**.  
 - Hosted on **Railway.app** for free and fast access.  
 
-### 💬 [LangGraph Chatbot](https://github.com/Omprakash-Jangid/LangGraph-based-Chatbot)
-A **Streamlit chatbot** powered by **Google Gemini LLM** with:
-- **LangGraph** for conversation state management.  
-- **SQLite** persistence for multi-thread chat memory.  
-- Modern UI with message bubbles and thread switching.  
 
 ---
 
