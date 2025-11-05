@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Omprakash Jangid  
 
-🎯 **AI Engineer | LLM Developer | Backend Enthusiast**
+🎯 **AI Engineer**
 
 ---
 
